@@ -6,4 +6,16 @@ FPC for relocating the Nintendo Wii AVE. Original design from 2020, updated 2023
 
 Repo contains EAGLE source files, teardropped gerbers for manufacture, BOM, and iPCB JSON.
 
-See https://bitbuilt.net/forums/index.php?threads/fs-aveflex-wii-ave-relocation-fpc.3884/ for more details
+Install guidelines and details at https://bitbuilt.net/forums/index.php?threads/fs-aveflex-wii-ave-relocation-fpc.3884/
+
+## Gallery
+
+<img src="https://github.com/mackieks/AVEFlex/blob/main/images/IMG_20201007_172741edit.jpg?raw=true">
+
+<img src="https://github.com/mackieks/AVEFlex/blob/main/images/IMG_20201007_180139~2.jpg?raw=true">
+
+<img src="https://github.com/mackieks/AVEFlex/blob/main/images/preomega.jpg?raw=true">
+
+
+
+
