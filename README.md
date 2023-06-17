@@ -2,7 +2,7 @@
 
 <img src="https://github.com/mackieks/AVEFlex/assets/49252894/c97cce75-68d5-4464-b857-13bbfec3fc29" width="400" >
 
-FPC for relocating the Nintendo Wii AVE. Original design from 2020, updated 2023
+FPC for relocating the Nintendo Wii AVE, licensed under TAPR OHL. Original design from 2020, updated 2023
 
 Repo contains EAGLE source files, teardropped gerbers for manufacture, BOM, and iPCB JSON.
 
