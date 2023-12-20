@@ -1,6 +1,6 @@
 # AVEFlex
 
-<img src="https://raw.githubusercontent.com/mackieks/AVEFlex/main/images/gerber.png" width=400>
+<img src="https://raw.githubusercontent.com/mackieks/AVEFlex/main/images/gerber.png" width=1200>
 
 FPC for relocating the Nintendo Wii AVE, licensed under TAPR OHL. Original design from 2020, updated 2023
 
