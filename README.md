@@ -1,4 +1,4 @@
-# AVEFlex
+# AVEflex
 
 <img src="https://raw.githubusercontent.com/mackieks/AVEFlex/main/images/gerber.png" width=1200>
 
