@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/mackieks/AVEFlex/main/images/gerber.png" width=1200>
 
-FPC for relocating the Nintendo Wii AVE, licensed under TAPR OHL. Original design from 2020, updated 2023
+FPC for relocating the Nintendo Wii AVE, licensed under Solderpad Hardware License v2.1. Original design from 2020, updated 2023
 
 Repo contains EAGLE source files, teardropped gerbers for manufacture, BOM, and iPCB JSON.
 
