@@ -112,7 +112,7 @@
         "max_error": 0.005,
         "min_clearance": 0.127,
         "min_connection": 0.0,
-        "min_copper_edge_clearance": 0.025,
+        "min_copper_edge_clearance": 0.1524,
         "min_hole_clearance": 0.25,
         "min_hole_to_hole": 0.25,
         "min_microvia_diameter": 0.2,
@@ -468,7 +468,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "./PCB",
+      "plot": "G:/AVEFlex/Gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
@@ -564,7 +564,7 @@
       "version": 1
     },
     "net_format_name": "",
-    "page_layout_descr_file": "empty.kicad_wks",
+    "page_layout_descr_file": "",
     "plot_directory": "",
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
@@ -578,7 +578,7 @@
   "sheets": [
     [
       "bffbef12-ecfc-422b-bee3-470732f62501",
-      "AVEFlex_0"
+      "Root"
     ]
   ],
   "text_variables": {}
