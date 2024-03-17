@@ -4,7 +4,9 @@
 
 FPC for relocating the Nintendo Wii AVE, licensed under Solderpad Hardware License v2.1. Original design from 2020, updated 2023
 
-Repo contains EAGLE source files, teardropped gerbers for manufacture, BOM, and iPCB JSON.
+Repo contains EAGLE and KiCAD 8 source files, gerbers for manufacture, and an iBOM file.
+
+Mouser project with the passive components is available [here](https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=5053a6b78b).
 
 Details and install notes at https://bitbuilt.net/forums/index.php?threads/fs-aveflex-wii-ave-relocation-fpc.3884/
 
